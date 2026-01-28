@@ -5,7 +5,7 @@ Mono Asset Shop publishes high-quality game-ready 3D assets for Unity and Unreal
 ## About
 
 Mono Asset Shop focuses on production-ready 3D models and environment assets designed for real-time applications.
-All assets are optimized for modern game engines and include clean topology, PBR textures, and consistent scale.
+All assets are optimized for modern game engines and include PBR textures and consistent scale.
 
 ## Asset Store Links
 
