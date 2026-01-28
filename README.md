@@ -29,7 +29,6 @@ GitHub Issues: https://github.com/monoassetshop-bit/unity-monoassetshop/issues
 
 All Mono Asset Shop products aim to provide:
 
-- Clean game-ready topology
 - PBR texture workflows  
 - Consistent real-world scale  
 - Engine-compatible formats  
